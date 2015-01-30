@@ -17,7 +17,7 @@ url: "http://GDGKansasCity.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-49153111-6'"
 googleAnalyticsSiteUrl: "GDGKansasCity.github.io"
-siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+siteVerification: "h-fNduIyAOtU8iZRpyjYh42qUZeobCJgBj6SG8TnbCc"
 
 # Organizer Info
 organizerName: "GDG Kansas City"
@@ -42,18 +42,19 @@ c4sponsorsUrl: "mailto:sponsorship@gdgkc.org"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
+ - {link: "http://gdgkc.org/news", text: "Blog"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/2gKG5Q35ld", text: "Register for event"}
 rightNavigationButtons:
- - {link: "http://goo.gl/", text: "Register for event"}
+ - {link: "http://goo.gl/forms/2gKG5Q35ld", text: "Register for event"}
 
 # Hero Block
 heroImage: "hero-tile.png"
 heroTitle: "GDG Kansas City StudyJam 2015"
 eventDate: "February - March, 2015"
 heroButtons:
- - {link: "http://goo.gl/", text: "Register for event"}
- - {link: "https://www.udacity.com/account/affiliate/StudyJam", text: "Sign up at Udacity"}
+ - {link: "http://goo.gl/forms/2gKG5Q35ld", text: "Register for event"}
+ - {link: "https://www.udacity.com/account/affiliate/StudyJam", text: "Udacity Sign up"}
 
 # About Block
 aboutTitle: "About GDG Kansas City StudyJam"
@@ -90,7 +91,7 @@ eventDoorTime: "06:00"
 eventEndTime: "2015-03-17T09:00"
 eventPlaceCoordinates: "39.05066, -94.607027"
 mapCenterCoordinates: "39.05066, -94.609027"
-mapMobileCenterCoordinates: "39.09066,-94.607027"
+mapMobileCenterCoordinates: "39.049043,-94.607687"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -98,7 +99,7 @@ venueBigImage: "venue_1.jpg"
 venueSmallImage1: "venue_2.jpg"
 venueSmallImage2: "venue_3.jpg"
 venueSmallImage3: "venue_4.jpg"
-venueTitle: "Google Fiber SPace"
+venueTitle: "Google Fiber Space"
 venueFeatures: ["Large meeting space", "High speed internet access", "Located centrally in the KC metro area"]
 
 # Tweets Feed Block
@@ -171,6 +172,7 @@ footerBlocks:
   links:
    - {link: "http://gdgkc.org", text: "gdgkc.org"}
    - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://developerstudyjams.com/", text: "Google Developers StudyJams"}
  -
   title: "Contacts"
   links:
