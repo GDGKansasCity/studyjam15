@@ -1,9 +1,9 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Kansas City", description: "GDG Kansas City - Open and volunteer geek community", link: "http://gdgkc.org", imageUrl: "gdg-kansas-city.svg", width: "120px"}
+    - {name: "GDG Kansas City", description: "GDG Kansas City - Open and volunteer geek community", link: "http://gdgkc.org", imageUrl: "gdg-kansas-city.svg", width: "320px"}
 - 
   group: "Co-organizers"
   elements: 
     - {name: "Google Developers", description: "Google Developers - For developers who are interested in Google's developer technology", link: "https://developers.google.com/groups/", imageUrl: "developers-logo.svg", width: "120px"}
-    - {name: "Udacity", description: "Udacity - Learn from Industry Experts", link: "https://www.udacity.com", imageUrl: "Udacity_Logo.png", width: "120px"}
+    - {name: "Udacity", description: "Udacity - Learn from Industry Experts", link: "https://www.udacity.com", imageUrl: "Udacity_Logo.png", width: "80px"}
