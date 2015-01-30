@@ -164,7 +164,6 @@ socialLinks:
  - {link: "https://plus.google.com/116015988631052616691/about", icon: "google-plus"}
  - {link: "https://twitter.com/GDGKansasCity", icon: "twitter"}
  - {link: "https://www.facebook.com/GDGKansasCity", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
