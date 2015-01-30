@@ -53,7 +53,7 @@ heroTitle: "GDG Kansas City StudyJam 2015"
 eventDate: "February - March, 2015"
 heroButtons:
  - {link: "http://goo.gl/", text: "Register for event"}
- - {link: "https://www.udacity.com/account/affiliate/StudyJam", text: "Sign up at Udacity"}
+ - {link: "https://www.udacity.com/account/affiliate/StudyJam", text: "Udacity Sign up"}
 
 # About Block
 aboutTitle: "About GDG Kansas City StudyJam"
