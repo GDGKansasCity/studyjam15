@@ -98,7 +98,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Google Fiber SPace"
-venueFeatures: ["Large meeting space", "3 large ", "Located centrally from all areas of the KC metro"]
+venueFeatures: ["Large meeting space", "High speed internet access", "Located centrally in the KC metro area"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
