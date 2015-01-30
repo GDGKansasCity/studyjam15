@@ -90,7 +90,7 @@ eventDoorTime: "06:00"
 eventEndTime: "2015-03-17T09:00"
 eventPlaceCoordinates: "39.05066, -94.607027"
 mapCenterCoordinates: "39.05066, -94.609027"
-mapMobileCenterCoordinates: "39.05066,-94.608027"
+mapMobileCenterCoordinates: "39.09066,-94.607027"
 
 # Venue Block
 venueBlockTitle: "Venue"
