@@ -90,14 +90,14 @@ eventDoorTime: "06:00"
 eventEndTime: "2015-03-17T09:00"
 eventPlaceCoordinates: "39.05066, -94.607027"
 mapCenterCoordinates: "39.05066, -94.609027"
-mapMobileCenterCoordinates: "39.05066,-94.608027"
+mapMobileCenterCoordinates: "39.09066,-94.607027"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
+venueBigImage: "venue_1.jpg"
+venueSmallImage1: "venue_2.jpg"
+venueSmallImage2: "venue_3.jpg"
+venueSmallImage3: "venue_4.jpg"
 venueTitle: "Google Fiber SPace"
 venueFeatures: ["Large meeting space", "High speed internet access", "Located centrally in the KC metro area"]
 
