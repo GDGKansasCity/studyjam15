@@ -42,7 +42,6 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/team/", text: "Team"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -53,19 +52,19 @@ heroImage: "hero.jpg"
 heroTitle: "GDG Kansas City StudyJam 2015"
 eventDate: "February - March, 2015"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://goo.gl/", text: "Register for event"}
 
 # About Block
 aboutTitle: "About GDG Kansas City StudyJam"
 aboutBlock:
- - {title: "Workshops", image: "workshop.jpg", text: "Google Developers Study Jams is a free series of global, community-run, in-person study groups. The first Study Jams series is presented in partnership with Udacity and will follow their Android Fundamentals curriculum. Google Developer Group facilitators certified in the course will lead the Study Jams that meet once weekly for 8 weeks." }
+ - {title: "Workshops", image: "workshop.jpg", text: "GDG StudyJams are a free series of global, community-run, in-person study groups. The first Study Jams series is presented in partnership with Udacity and will follow their Android Fundamentals curriculum. Google Developer Group facilitators certified in the course will lead the Study Jams that meet once weekly for 8 weeks." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "20", specialCharacter: "+", info: "attendees", detail: "from Kansas City metro area"}
  - {count: "60", specialCharacter: "+", info: "hours", detail: "of pure Android learning"}
+ - {count: "8", specialCharacter: "", info: "weeks", detail: "of networking and fun!"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
