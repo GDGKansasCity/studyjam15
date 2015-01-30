@@ -42,12 +42,8 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -64,36 +60,26 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG Kansas City StudyJam"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Google Developers Study Jams is a free series of global, community-run, in-person study groups. The first Study Jams series is presented in partnership with Udacity and will follow their Android Fundamentals curriculum. Google Developer Group facilitators certified in the course will lead the Study Jams that meet once weekly for 8 weeks." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "20", specialCharacter: "+", info: "attendees", detail: "from Kansas City metro area"}
+ - {count: "60", specialCharacter: "+", info: "hours", detail: "of pure Android learning"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
-
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
+eventLocationName: "Google Fiber Space"
+eventLocationLink: "https://fiber.google.com/cities/kansascity/events/"
+eventStreetAddress: "1814 Westport Rd"
+eventAddressLocality: "Kansas City"
+eventAddressLocalityRegion: "MO"
+eventPostalCode: "64111"
+eventAddressCountry: "US"
 eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
