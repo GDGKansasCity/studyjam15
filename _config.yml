@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG Kansas City StudyJam"
 email: "studyjam@gdgkc.org"
 description: "Google Developers Study Jams Android Fundamentals Udacity Course"
-baseurl: "/zeppelin"
+baseurl: "/studyjam15"
 url: "http://GDGKansasCity.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-49153111-6'"
@@ -53,6 +53,7 @@ heroTitle: "GDG Kansas City StudyJam 2015"
 eventDate: "February - March, 2015"
 heroButtons:
  - {link: "http://goo.gl/", text: "Register for event"}
+ - {link: "https://www.udacity.com/account/affiliate/StudyJam", text: "Sign up at Udacity"}
 
 # About Block
 aboutTitle: "About GDG Kansas City StudyJam"
