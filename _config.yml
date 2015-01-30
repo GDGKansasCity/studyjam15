@@ -171,6 +171,7 @@ footerBlocks:
   links:
    - {link: "http://gdgkc.org", text: "gdgkc.org"}
    - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://developerstudyjams.com/", text: "Google Developers StudyJams"}
  -
   title: "Contacts"
   links:
