@@ -45,7 +45,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/", text: "Register for event"}
 
 # Hero Block
 heroImage: "hero.jpg"
