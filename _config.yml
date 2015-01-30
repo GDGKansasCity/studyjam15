@@ -48,7 +48,7 @@ rightNavigationButtons:
  - {link: "http://goo.gl/", text: "Register for event"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero-tile.png"
 heroTitle: "GDG Kansas City StudyJam 2015"
 eventDate: "February - March, 2015"
 heroButtons:
