@@ -44,16 +44,16 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {link: "http://gdgkc.org/news", text: "Blog"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/2gKG5Q35ld", text: "Register for event"}
 rightNavigationButtons:
- - {link: "http://goo.gl/", text: "Register for event"}
+ - {link: "http://goo.gl/forms/2gKG5Q35ld", text: "Register for event"}
 
 # Hero Block
 heroImage: "hero-tile.png"
 heroTitle: "GDG Kansas City StudyJam 2015"
 eventDate: "February - March, 2015"
 heroButtons:
- - {link: "http://goo.gl/", text: "Register for event"}
+ - {link: "http://goo.gl/forms/2gKG5Q35ld", text: "Register for event"}
  - {link: "https://www.udacity.com/account/affiliate/StudyJam", text: "Udacity Sign up"}
 
 # About Block
