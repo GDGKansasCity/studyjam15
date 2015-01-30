@@ -1,8 +1,8 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Kansas City", description: "GDG Kansas City - Open and volunteer geek community", link: "http://gdgkc.org", imageUrl: "gdg-kansas-city.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "GDG Kansas City", description: "GDG Kansas City - Open and volunteer geek community", link: "http://gdgkc.org", imageUrl: "gdg-kansas-city.svg", width: "120px"}
 - 
   group: "With support of"
   elements: 
