@@ -12,6 +12,7 @@
   subtype: workshop
   language: en
   complexity: "Beginner"
+  video: "//www.youtube.com/embed/LfVBFFoy9Y0"
 -
   id: 003
   title: "Lesson 2: Connect Sunshine to the Cloud"
@@ -19,6 +20,7 @@
   subtype: workshop
   language: en
   complexity: "Intermediate"
+  video: "//www.youtube.com/embed/Tn1bH76cgLM"
 -
   id: 004
   title: "Lesson 3: New Activities and Intents"
@@ -26,6 +28,7 @@
   subtype: workshop
   language: en
   complexity: "Intermediate"
+  video: "//www.youtube.com/embed/JV0CBM6mphA"
 -
   id: 005
   title: "Lesson 4a: Lifecycle and Databases"
@@ -33,6 +36,7 @@
   subtype: workshop
   language: en
   complexity: "Advanced"
+  video: "//www.youtube.com/embed/xWzr7qTBTEk"
 -
   id: 006
   title: "Lesson 4b: Content Providers and Loaders"
@@ -40,6 +44,7 @@
   subtype: workshop
   language: en
   complexity: "Advanced"
+  video: "//www.youtube.com/embed/xWzr7qTBTEk"
 -
   id: 007
   title: "Lesson 5: Rich and Responsive Layouts"
@@ -47,6 +52,7 @@
   subtype: workshop
   language: en
   complexity: "Advanced"
+  video: "//www.youtube.com/embed/UWDPWQytjH0"
 -
   id: 008
   title: "Lesson 6: Services and Notifications"
@@ -54,3 +60,4 @@
   subtype: workshop
   language: en
   complexity: "Advanced"
+  video: "//www.youtube.com/embed/Yu1NoQ1vmMQ"
