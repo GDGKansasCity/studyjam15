@@ -42,6 +42,7 @@ c4sponsorsUrl: "mailto:sponsorship@gdgkc.org"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/schedule/", text: "Schedule"}
+ - {link: "http://gdgkc.org/news", text: "Blog"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
