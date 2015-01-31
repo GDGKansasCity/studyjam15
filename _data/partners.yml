@@ -6,6 +6,5 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
     - {name: "Google Fiber", description: "Google Fiber - A different kind of Internet and TV", link: "https://fiber.google.com/about/", imageUrl: "google_fiber_blue.png", width: "120px"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
