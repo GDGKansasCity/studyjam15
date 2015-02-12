@@ -86,3 +86,14 @@
     	endTime: "09:00",
     	sessionIds: [008]
     }
+- 
+  date: "2015-03-31"
+  dateReadable: "Wednesday, March 31"
+  tracks: 
+    - {title: "Developing Android Apps: Final Projects & Monthly Meeting", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "06:30",
+    	endTime: "09:00",
+    	sessionIds: [009]
+    }

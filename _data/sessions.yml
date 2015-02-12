@@ -61,3 +61,11 @@
   language: en
   complexity: "Advanced"
   video: "//www.youtube.com/embed/Yu1NoQ1vmMQ"
+-
+  id: 009
+  title: "Final Projects & Monthly Meeting"
+  description: "Show off your final projects that you have/will submit to Udacity for grading and to receive your certificate! We will also have our regular monthly meeting. Topic(s) TBD."
+  subtype: workshop
+  language: en
+  complexity: "Advanced"
+  video: "//www.youtube.com/embed/Yu1NoQ1vmMQ"
