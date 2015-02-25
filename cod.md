@@ -15,6 +15,7 @@ If someone is bothering you, please tell GDG Organizers immediately and they wil
 
 ######Contacts:
 
-- Vitaliy Zasadnyy, [gdgkansascity@gmail.com](mailto:ggkansascity@gmail.com)
+- Kyle Paul & Vince Garcia
+- GDG Kansas City Organizers, [gdgkansascity@gmail.com](mailto:gdgkansascity@gmail.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
